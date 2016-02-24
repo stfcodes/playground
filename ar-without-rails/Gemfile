@@ -1,0 +1,12 @@
+source "https://rubygems.org"
+
+# Debugging
+gem 'pry'
+gem 'binding_of_caller'
+gem 'pry-byebug'
+
+# Database
+gem 'sqlite3'
+
+# Magic
+gem 'standalone_migrations'
